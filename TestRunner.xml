@@ -1,0 +1,11 @@
+<suite name="Suite1" verbose="1" >
+
+    <test name="Regression">
+        <classes>
+            <class name="testng.annotations.testNGAnnotationTest1"/>
+            <class name="testng.annotations.testNGAnnotationTest2"/>
+            <class name="testng.annotations.testNGAnnotationTest3"/>
+            <class name="testng.annotations.testNGAnnotationTest4"/>
+        </classes>
+    </test>
+</suite>
